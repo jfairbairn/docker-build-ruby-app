@@ -1,4 +1,4 @@
-FROM jfairbairn/base:14.04-1.0
+FROM jfairbairn/base
 
 MAINTAINER James Fairbairn <james@netlagoon.com>
 
